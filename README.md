@@ -10,11 +10,11 @@ The project transforms raw healthcare data into meaningful business insights tha
 
 ### Hospital Overview & Performance
 
-![Hospital Overview](images/page1.png)
+![Hospital Overview Dashboard](Page1.png)
 
 ### Patient & Billing Analysis
 
-![Patient & Billing Analysis](images/page2.png)
+![Patient & Billing Analysis Dashboard](Page2.png)
 
 ---
 
@@ -168,13 +168,14 @@ Dashboard Storytelling
 
 Potential future enhancements include:
 
-Month-over-Month and Year-over-Year analysis
-Department-level drill-through pages
-Advanced KPI targets
-Patient-level drill-through analysis
-Automated data refresh
-Integration with a live SQL database
-More advanced healthcare performance metrics
+-Month-over-Month and Year-over-Year analysis
+-Department-level drill-through pages
+-Advanced KPI targets
+-Patient-level drill-through analysis
+-Automated data refresh
+-Integration with a live SQL database
+-More advanced healthcare performance metrics
+
 👩‍💻 Author
 
 Tanvi Hulavale
